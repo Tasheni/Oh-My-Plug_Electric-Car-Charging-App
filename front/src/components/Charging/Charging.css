@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@283;300;377;720&family=Alfa+Slab+One&family=Audiowide&family=Cabin&family=Cherry+Cream+Soda&family=Coustard:wght@400;900&family=Dela+Gothic+One&family=Monoton&family=Montserrat:wght@400;800&family=Orbitron:wght@400;600;800&family=Poiret+One&family=Poppins:wght@400;600&family=Questrial&family=Raleway&family=Roboto:ital,wght@0,100;1,900&family=Rokkitt&family=Rozha+One&family=Russo+One&display=swap');
+
+.charging h1{
+  font-family: 'Alexandria' sans-serif;
+  display: flex;
+  align-items: center;
+  height: 13vh;
+  font-style: black;
+  font-size: 50px;
+}
+
+.content {
+  position: relative;
+  width:100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 279px;
+}
+
+.content .textBox{
+  position: relative;
+  max-width: 900px;
+  padding-top: 140px;
+}
+
+.textBox h2{
+  color: black;
+  font-weight: 720px;
+  font-size: 50px;
+  font-family:'Alexandria', serif ;
+  margin: 5px;
+}
+
+.content .textBox h2{
+  color: black;
+  font-size: 40px;
+  justify-content: center;
+  line-height: normal;
+  margin: 20px;
+  font-family: 'Alexandria', sans-serif;
+  letter-spacing: normal;
+  text-align: justify;
+  font-weight: 720;
+
+}
+
+.imageBox img {
+  max-width: 900px;
+  border-radius: 10px;
+  height: 675px;
+}
+
+.textBox a{
+  border-radius: 20px;
+background-color: #273036;
+color: #FFFFFF;
+font-size: 25px;
+padding: 1px 66px;
+letter-spacing: 1px;
+transition: transform 80ms ease-in;
+margin: 10px;
+  font-family: 'Alexandria', serif;
+  text-decoration: none;
+}
+
+
+
+

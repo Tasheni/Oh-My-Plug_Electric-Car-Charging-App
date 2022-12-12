@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@283;300;377;720&family=Alfa+Slab+One&family=Audiowide&family=Cabin&family=Cherry+Cream+Soda&family=Coustard:wght@400;900&family=Dela+Gothic+One&family=Monoton&family=Montserrat:wght@400;800&family=Orbitron:wght@400;600;800&family=Poiret+One&family=Poppins:wght@400;600&family=Questrial&family=Raleway&family=Roboto:ital,wght@0,100;1,900&family=Rokkitt&family=Rozha+One&family=Russo+One&display=swap');
+
+.StopCharging h1{
+    color: black;
+  font-weight: 720px;
+  font-size: 100px;
+  font-family:'Alexandria', serif ;
+  margin: 5px;
+}
